@@ -27,8 +27,8 @@ function textEncrypt() {
       <div class='container__text__encrypt' id='text__encrypt'>
       ${resultEncryption}
       </div>
-      <div class='container__button_copy'>
-          <button class='btn btn-white' onclick='copyEncryption()'>
+      <div class='container__button__copy'>
+          <button class='btn btn-grey' onclick='copyEncryption()'>
           Copiar
           </button>
       </div>`;
@@ -44,8 +44,8 @@ function descrifrarTexto() {
     <div class='container__text__encrypt' id='text__encrypt'>
     ${decryptedText}
     </div>
-    <div class='container__button_copy'>
-      <button class='btn btn-white' onclick='copyEncryption()'>
+    <div class='container__button__copy'>
+      <button class='btn btn-grey' onclick='copyEncryption()'>
       Copiar
       </button>
     </div>`;

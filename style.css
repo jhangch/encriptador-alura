@@ -97,7 +97,7 @@ body {
   margin-right: 20px;
 }
 
-.btn-white {
+.btn-grey {
   color: var(--color-text);
   border: 1px solid var(--text-opacity) !important;
 }
